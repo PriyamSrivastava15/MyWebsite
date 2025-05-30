@@ -53,7 +53,7 @@ body{
 
 .photo1{
     grid-area: photo1;
-    background-image: url("/assets/diwali2.jpg");
+    background-image: url("../assets/diwali2.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -61,7 +61,7 @@ body{
 
 .photo2{
     grid-area: photo2;
-    background-image: url("/assets/godi.jpg");
+    background-image: url("../assets/godi.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -69,7 +69,7 @@ body{
 
 .photo3{
     grid-area: photo3;
-    background-image: url("/assets/fest.jpg");
+    background-image: url("../assets/fest.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -77,7 +77,7 @@ body{
 
 .photo4{
     grid-area: photo4;
-    background-image: url("/assets/fresher.jpg");
+    background-image: url("../assets/fresher.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
